@@ -34,9 +34,3 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
-
-# deploy must not change server environment ( dev, stg prod... )
-env.R
-
-# sandbox
-_sandbox/
