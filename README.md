@@ -1,6 +1,10 @@
 # sharebook-data-analysis
 
-## donation-lifecycle
+## Contribua
+
+Contribua você também com sua própria análise. Nos ajude a entender e melhorar a experiência do nosso app.
+
+## análise 1: donation-lifecycle
 
 ![](donation-lifecycle/Screenshot.png)
 
@@ -9,7 +13,3 @@ O objetivo dessa análise é verificar qual a probabilidade de um livro ser pedi
 - Quanto tempo um livro deve ficar na vitrine?
 - Será que tem muitos pedidos nos primeiros dias?
 - Como o estilo pessoal de um facilitador afeta os pedidos?
-
-## Contribua
-
-Contribua você também com sua própria análise. Nos ajude a entender e melhorar a experiência do nosso app.
